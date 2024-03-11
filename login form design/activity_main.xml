@@ -86,7 +86,6 @@
             android:inputType="number"
             android:hint="@string/phone_number"/>
 
-
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.button.MaterialButton
@@ -98,8 +97,4 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/phoneContainer" />
-
-
-
-
 </LinearLayout>
